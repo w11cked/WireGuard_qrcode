@@ -22,7 +22,7 @@ Projektverzeichnis
 ├── get_qr_code.bat       # Batch-Datei zum Starten des Projekts (Windows)
 ├── README.md             # Projektdokumentation
 ├── example.conf          # Beispiel-WireGuard-Konfigurationsdatei
-└── 4sight-logo-v7.png    # Das Logo, das im QR-Code eingebettet wird
+└── logo.png    # Das Logo, das im QR-Code eingebettet wird
 ```
 
 ---
